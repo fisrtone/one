@@ -1,0 +1,2 @@
+# Amos
+first git repository
